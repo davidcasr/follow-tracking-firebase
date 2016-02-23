@@ -28,7 +28,7 @@ public class MainActivity extends AppCompatActivity implements OnMapReadyCallbac
     private static final String TAG = "FollowTrackingFirebase";
 
     private String FIREBASE_URL = "https://trackingfirebase.firebaseio.com/";
-    private String FIREBASE_USER = "user1";
+    //private String FIREBASE_USER = "user1";
 
     Firebase firebase;
 
