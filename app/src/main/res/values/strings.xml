@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FollowTrackingFirebaseGoogleMaps</string>
+    <string name="follow_location">Start Follow Route</string>
+</resources>
